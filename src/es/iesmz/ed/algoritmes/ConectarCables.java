@@ -3,7 +3,7 @@ package es.iesmz.ed.algoritmes;
 import java.util.List;
 /**
  * Esta clase realiza la comprobacion de si se puede realizar un circulo completamente cerrado con los extremos de cables.
- * @author: Saleem Siddique
+ * @author: Saleem Siddique.
  * @version: 01/06/2023
  */
 public class ConectarCables {

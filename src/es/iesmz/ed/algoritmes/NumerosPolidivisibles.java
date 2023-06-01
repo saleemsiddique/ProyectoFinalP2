@@ -2,7 +2,7 @@ package es.iesmz.ed.algoritmes;
 
 /**
  * Esta clase comprueba si un numero pasado por parametro es un numero polidivisible.
- * @author: Saleem Siddique
+ * @author: Saleem Siddique.
  * @version: 01/06/2023
  */
 
